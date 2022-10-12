@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    background-size: cover;
+    height: 30vh;
+    width: 30vw;
+}
+.head1 {
+    font-family: "bree serif";
+    font-size: 35px;
+    color: white;
+    padding: 15px;
+}
+.background {
+    background-color: #1b1b1b;
+}
+.white-back {
+    background-color: white;
+}
+.head2 {
+    color: #183b56;
+    font-family: "bree serif";
+    font-size: 20px;
+}
+.tag-line {
+    color: black;
+    font-family: "bree serif";
+    font-size: 13px;
+}
+.writer-name {
+    color: #183b56;
+    font-family: "bree serif";
+    font-size: 10px;
+}
+.button {
+    font-family: "Roboto";
+    font-size: 10px;
+}
+.box1 {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 15px;
+}
+.head3 {
+    font-family: "bree serif";
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+}
+.image2 {
+    background-size: cover;
+    height: 22vh;
+    width: 20vw;
+    margin: 15px;
+}
+.head4 {
+    font-family: "bree serif";
+    font-size: 17px;
+    color: white;
+}
+.writer-name2 {
+    color: #9aa5b1;
+    font-family: "bree serif";
+    font-size: 13px;
+}
+.pad {
+    padding: 15px;
+}
+.image3 {
+    background-size: cover;
+    height: 50vh;
+    width: 44vw;
+    margin: 15px;
+}
+.story {
+    text-align: center;
+    color: #e4e7eb;
+    font-family: "bree serif";
+    font-size: 13px;
+}
+.writer-name3 {
+    color: #9aa5b1;
+    font-family: "bree serif";
+    font-size: 13px;
+    text-align: center;
+}
+.yellow-button {
+    background-color: yellow;
+    font-family: "Roboto";
+    font-size: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
