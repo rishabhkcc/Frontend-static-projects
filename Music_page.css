@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 80vh;
+    width: 99vw;
+}
+
+.page-color {
+    background-color: #03174c;
+}
+
+.bg-container2 {
+    background-size: cover;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 30vh;
+    width: 70vw;
+}
+
+.heading {
+    text-align: center;
+    font-family: "bree serif";
+    font-size: 40px;
+    color: white;
+}
+
+.pad {
+    margin: 20px;
+}
+
+.p1 {
+    font-family: "bree serif";
+    font-size: 15px;
+    color: #98a1bd;
+    text-align: center;
+}
+
+.button {
+    color: white;
+    font-family: "bree serif";
+    background-color: #8e97fd;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 5px;
+    border: 0px;
+}
+
+.image2 {
+    background-size: cover;
+    height: 60vh;
+    width: 97vw;
+}
+
+.heading2 {
+    text-align: left;
+    font-family: "bree serif";
+    font-size: 40px;
+    color: white;
+    padding: 20px;
+}
+
+.p2 {
+    font-family: "bree serif";
+    font-size: 15px;
+    color: #98a1bd;
+    padding: 20px;
+}
+
+.heading3 {
+    font-family: "bree serif";
+    font-size: 20px;
+    color: white;
+    padding: 23px;
+}
+
+.image3 {
+    background-size: cover;
+    height: 30vh;
+    width: 35vw;
+    padding: 20px;
+}
+
+.button2 {
+    color: white;
+    font-family: "bree serif";
+    background-color: #8e97fd;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+    border: 0px;
+    margin: 20px;
+}
